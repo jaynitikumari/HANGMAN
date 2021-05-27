@@ -79,4 +79,4 @@ You can try playing the game here https://hangmanwordgame.com/
   * Test your code with multiple inputs to see if it works fine
 
   
-
+### Made with ♥ by Jayniti Kumari
